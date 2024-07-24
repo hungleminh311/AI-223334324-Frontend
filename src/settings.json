@@ -1,0 +1,83 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Don't miss out on the biggest design and creative event of the year! Limited spots available. saasdassadasdsadasda",
+        "linkText": "Register Now asdasdasdasdas",
+        "promotionSubtitle": "Get 20% off if you register before May 1",
+        "promotionTitle": "Early Bird Offer"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Innovative Designs to Shape Your Imagination",
+        "title": "Unleash Your Creativity with gamble"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "buttonText": "Get started with Gamble",
+        "linkText": "Discover more",
+        "subtitle": "Experience the future of design with a tool that empowers your creativity and simplifies the process. Gamble is here to solve your design challenges with innovative solutions tailored to your needs. Redefine Your Creative Journey with Gamble Redefine Your Creative Journey with Gamble",
+        "title": "Redefine Your Creative Journey with Gamble\nRedefine Your Creative Journey with Gamble\nRedefine Your Creative Journey with Gamble"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Innovative Designs to Shape Your Imagination",
+        "title": "Unleash Your Creativity with gamble"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "Creators on the platform": "8,000+",
+        "Flat platform fee": "3%",
+        "Paid out to creators": "$70M",
+        "Uptime guarantee": "99.9%",
+        "description": "Proven by numerous successful projects and creators’ earnings. Redefine Your Creative Journey with Gamble",
+        "title": "Trusted by creators worldwide Redefine Your Creative Journey with Gamble"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "description": "Discover innovative design solutions and elevate your creative projects with Gamble. Join our platform for a transformative experience.",
+        "linkText": "Start Now",
+        "titlePart1": "Unlock Creativity. Redefine Your Creative Journey with Gamble Redefine Your Creative Journey with Gamble",
+        "titlePart2": "Explore Gamble Today. Redefine Your Creative Journey with Gamble Redefine Your Creative Journey with Gamble"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Innovative Designs to Shape Your Imagination",
+        "title": "Unleash Your Creativity with gamble"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Join Now Redefine Your Creative Journey with Gamble",
+        "description": "Stay at the forefront of the design and creative industry. Subscribe to our newsletter for the latest trends, expert tips, and exclusive content. Redefine Your Creative Journey with Gamble",
+        "emailLabel": "Your Email Address Redefine Your Creative Journey with Gamble",
+        "heading": "Discover Innovative Design Insights with Our Newsletter Redefine Your Creative Journey with Gamble"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Designs to Shape Your Imagination",
+        "title": "Unleash Your Creativity with gamble"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash Your Creativity with gamble",
+  "subtitle": "Innovative Designs to Shape Your Imagination"
+}
